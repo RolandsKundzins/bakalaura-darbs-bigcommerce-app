@@ -1,4 +1,4 @@
-# NextJS Sample App
+# Šī dokumentācija ir iekļauta no BigCommerce lietotņu sagataves un nav mainīta
 
 This starter app includes all the files necessary to get started with a basic, hello world app. This app uses NextJS, BigDesign, Typescript, and React.
 
