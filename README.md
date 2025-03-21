@@ -1,4 +1,4 @@
-# Bakalaura darba BigCommerce app
+# Bakalaura darba BigCommerce lietotne
 
 Šis projekts izmantots, lai izpētītu BigCommerce e-komercijas platformas darbību un veidotu spraudni.
 
